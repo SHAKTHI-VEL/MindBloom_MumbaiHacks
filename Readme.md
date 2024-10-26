@@ -1,14 +1,13 @@
-<h1 align="center">  📲AquaTrace  🌊 </h1> <br>
+<h1 align="center">  📲Mind Bloom  🧠 </h1> <br>
 <p align="center">
-<h1 align="center"> <a href="https://play.google.com/store/search?q=Aqua%20Trace&c=apps"> App Link (Play Store)   </h1></a><br>
 </p>
 
 <p align="center">
- <a href="https://pbs.twimg.com/media/GLwgHwIXMAAUBrS?format=jpg&name=small">
+ <!-- <a href="https://pbs.twimg.com/media/GLwgHwIXMAAUBrS?format=jpg&name=small">
     <img src="https://pbs.twimg.com/media/GLwgHwIXMAAUBrS?format=jpg&name=medium" alt="HiewAF9.md.png" border="0">
-  </a>
+  </a> -->
 <p align="center">
-  Aqua Trace - Track your water footprint effortlessly!
+  Mind Bloom!
 </p>
 
 ## Introduction
@@ -21,33 +20,20 @@ A Flutter-based application designed to help users track and manage their daily 
 
 ## Walkthrough
 
-https://github.com/sidesshmore/AquaTrace/assets/109675078/18a56fa4-2821-439d-ac75-f6eb2c3c0e03
+<!-- https://github.com/sidesshmore/AquaTrace/assets/109675078/18a56fa4-2821-439d-ac75-f6eb2c3c0e03
 
 ![2](https://res.cloudinary.com/dgyvdwda7/image/upload/v1714320966/nvdepq8f8wcl39nzjdtt.jpg)
 
 ![3](https://res.cloudinary.com/dgyvdwda7/image/upload/v1714321013/engmio20x7ptblykd9ux.jpg)
 
-![4](https://res.cloudinary.com/dgyvdwda7/image/upload/v1714321043/zhq3z3gpxos1s9pniy0s.jpg)
+![4](https://res.cloudinary.com/dgyvdwda7/image/upload/v1714321043/zhq3z3gpxos1s9pniy0s.jpg) -->
 
-## 💬💡 Features
+<!-- ## 💬💡 Features
 
 - Food Item Tracking: Upload pictures of food items to track their water footprint.
 - Activity Tracking: Log various activities such as watering plants or washing hands to monitor water usage.
 - Leaderboard: Engage in friendly competition with other users and earn XP points.
-- Informative Blog: Access informative articles to learn about water conservation practices.
-
-## 📦 Packages
-
-| Name                                                                                       | Description                   |
-| ------------------------------------------------------------------------------------------ | ----------------------------- |
-| [`@cupertino_icons`](https://pub.dev/packages/cupertino_icons)                             | Cupertino Icons               |
-| [`@shared_preferences`](https://pub.dev/packages/shared_preferences)                       | Shared Preferences            |
-| [`@dio`](https://pub.dev/packages/dio)                                                     | Dio                           |
-| [`@dash_chat_2`](https://pub.dev/packages/dash_chat_2)                                     | Dash Chat                     |
-| [`@syncfusion_flutter_datepicker`](https://pub.dev/packages/syncfusion_flutter_datepicker) | Syncfusion_flutter_datepicker |
-| [`@showcaseview`](https://pub.dev/packages/showcaseview)                                   | Showcaseview                  |
-| [`@tensorflow_lite_flutter`](https://pub.dev/packages/tensorflow_lite_flutter)             | tensorflow_lite_flutter       |
-| [`@percent_indicator`](https://pub.dev/packages/percent_indicator)                         | percent_indicator             |
+- Informative Blog: Access informative articles to learn about water conservation practices. -->
 
 ## Prerequisites
 
@@ -58,13 +44,13 @@ To run this app, you need to have Flutter installed on your system. If you haven
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/sidesshmore/Aqua-Trace-Flutter-App.git
+   git clone https://github.com/SHAKTHI-VEL/MindBloom_MumbaiHacks.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd Aqua-Trace-Flutter-App
+   cd Frontend
    ```
 
 3. Install the dependencies:
@@ -86,3 +72,7 @@ To run this app, you need to have Flutter installed on your system. If you haven
 Sidessh More [@Linkedin](https://www.linkedin.com/in/sidessh/) [@Github](https://github.com/sidesshmore)
 
 Shakthivel [@Linkedin](https://www.linkedin.com/in/shakthivel2802/) [@Github](https://github.com/SHAKTHI-VEL)
+
+Ayush Mokal [@Linkedin](https://www.linkedin.com/in/ayushmokal/) [@Github](https://github.com/ayushmokal)
+
+Rajiv Patkar [@Linkedin](https://www.linkedin.com/in/rajivpatkar/) [@Github](https://github.com/raajivp)
