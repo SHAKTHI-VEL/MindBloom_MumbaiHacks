@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897663417109",
+    "project_id": "mindbloom-e29e2",
+    "storage_bucket": "mindbloom-e29e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897663417109:android:4d4076131dd9b0e745c71c",
+        "android_client_info": {
+          "package_name": "com.example.mindbloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897663417109-r9f7bdfgcjnc7l1hev4lb5m0d6b3dnjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiRWUZppO-T4_FW05bFaLFVB81zTLydXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897663417109-r9f7bdfgcjnc7l1hev4lb5m0d6b3dnjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
